@@ -6,3 +6,8 @@ function paragraphSelector() {
  }
 }
 
+function lastImageSelector() {
+ if (name === '<p>') {
+   $('img')
+ }
+}
