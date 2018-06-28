@@ -7,7 +7,21 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
- if (name === '<p>') {
+ if (name === '<img>') {
    $('img')
  }
+}
+
+function ninjaBabySelector() {
+   $('parent-tag child-tag:first-child')
+}
+
+
+function divSelector() {
+   $('div img:first-child')
+}
+
+
+function firstListItem() {
+   $('')
 }
