@@ -23,5 +23,5 @@ function divSelector() {
 
 
 function firstListItem() {
-   $('')
+   $('ul:pic-list')
 }
