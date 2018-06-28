@@ -1,5 +1,5 @@
 // declare your functions here...
 
 function paragraphSelector() {
- if name 
+ if (name === '<p>') 
 }
